@@ -1,0 +1,9 @@
+# Design docs, not code
+SPEC.md
+
+# Rust
+target/
+
+# OS
+.DS_Store
+
